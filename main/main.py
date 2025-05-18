@@ -30,7 +30,7 @@ result = torch.matmul(mat1, mat2)
 classes = [
   "BASOPHIL",
   "EOSINOPHIL",
-  "EUTROPHIL",
+  "NEUTROPHIL",
   "LYMPHOCYTE",
   "MONOCYTE",
   "NEUTROPHIL",
